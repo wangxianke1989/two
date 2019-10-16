@@ -1,0 +1,24 @@
+
+.searchBar{
+	display:flex;
+	justify-content: space-between;
+	margin:20px 0px;
+	/*border:1px solid blue;8*/
+	
+}
+.title{
+	padding:0 30px;
+	
+}
+.searchArea{
+	display:flex;
+	justify-content:flex-end;
+	align-items: center;
+	
+}
+.searchButton,
+.searchInput{
+	height:30px;
+	
+
+}

@@ -1,0 +1,33 @@
+.bookList{
+	display:flex;
+	justify-content: flex-start;
+	flex-wrap: wrap;
+	margin:20px 0;
+	
+}
+.bookContainer{
+	width:116px;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	margin-right: 8px;
+	font-size:12px;
+
+}
+.bookDetail{
+	text-align: left;
+	
+}	
+.bookFace img{
+	width:96px;
+	height:128px;
+}
+.bookName{
+	height:36px;
+}
+.bookAuthor{
+	height:18px;
+}
+.bookPrice{
+	margin-top:3px;
+}

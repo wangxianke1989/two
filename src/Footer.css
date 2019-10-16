@@ -1,0 +1,9 @@
+.footer{
+	display: flex;
+	justify-content:flex-start;
+	font-size:12px;
+	margin:20px 0;
+}
+.footer p{
+	margin-right:10px;
+}

@@ -1,0 +1,25 @@
+.menu{
+	display: flex;
+	justify-content: center;
+	background-color: #676363;
+	height:40px;
+	
+}
+.menu-container{
+	display:flex;
+	justify-content: space-between;
+	
+	width:60%;
+	color:white;
+	
+
+}
+.menu-container div{
+	display: flex;
+	align-items: center;
+	padding:0 15px 0 15px;
+}
+
+.menu-container div:hover{
+	background-color:#A19F9F;
+}
